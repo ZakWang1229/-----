@@ -35,15 +35,15 @@ b, & & {\text{else if} \quad b \leq y}\\
 
 {{ self.sample_text() }}
 
-{{ self.title_sample_description() }}
-
-这是第一组数据的样例说明。
-
 {{ s('sample', 2) }}
+
+{{ self.sample_text() }}
+
+{{ s('sample', '3-12') }}
 
 {{ self.sample_file() }}
 
-上面是只提示存在第二组样例，但不渲染到题面中。
+满足子任务编号 $1$ - $10$ 的限制
 
 {{ s('subtasks') }}
 
