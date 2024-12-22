@@ -3,7 +3,7 @@ folder: day
 name: day0
 start time: 1926-08-17 00:00:00+0800
 subdir:
-# - genshin
+- genshin
 - starrail
 - zzz
 title:

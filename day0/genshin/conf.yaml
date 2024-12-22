@@ -6,7 +6,45 @@ compile:
   java: ''
   pas: -O2
   py: ''
-data: []
+data:
+- cases:
+  - subtask1genshin1
+  - subtask1genshin2
+  - subtask1genshin3
+  - subtask1genshin4
+  score: 10
+- cases:
+  - subtask2genshin5
+  - subtask2genshin6
+  - subtask2genshin7
+  - subtask2genshin8
+  score: 20
+- cases:
+  - subtask3genshin9
+  - subtask3genshin10
+  - subtask3genshin11
+  - subtask3genshin12
+  score: 10
+- cases:
+  - subtask4genshin13
+  - subtask4genshin14
+  - subtask4genshin15
+  - subtask4genshin16
+  score: 10
+- cases:
+  - subtask5genshin17
+  - subtask5genshin18
+  - subtask5genshin19
+  - subtask5genshin20
+  score: 20
+- cases:
+  - subtask6genshin21
+  - subtask6genshin22
+  - subtask6genshin23
+  - subtask6genshin24
+  - subtask6genshin25
+  - subtask6genshin26
+  score: 30
 folder: problem
 memory limit: 512 MiB
 name: genshin
@@ -15,7 +53,7 @@ pre: []
 samples: []
 time limit: 1.0
 title:
-  zh-cn: 用于试题标题的中文名称
+  zh-cn: 元身
 type: program
 users: {}
 version: 2

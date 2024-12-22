@@ -7,4 +7,4 @@ def add_prefix_suffix(directory, prefix, suffix):
         print(filename, new_filename)
  
 # 示例用法
-add_prefix_suffix('C:\\Users\\ZakWa\\Desktop\\tmp', '', '.in')
+add_prefix_suffix('C:\\Users\\ZakWa\\Desktop\\tmp\\subtask6', 'subtask6', '')
