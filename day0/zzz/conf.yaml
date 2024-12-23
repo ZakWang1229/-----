@@ -252,14 +252,14 @@ data:
   - 182
   score: 3
 folder: problem
-memory limit: 512 MiB
+memory limit: 1024 MiB
 name: zzz
 partial score: false
 pre: []
 samples: []
 time limit: 1.0
 title:
-  zh-cn: 用于试题标题的中文名称
+  zh-cn: 掘取麟
 type: program
 users: {}
 version: 2

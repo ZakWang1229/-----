@@ -1,11 +1,11 @@
-end time: 1926-08-17 00:00:01+0800
 folder: day
 name: day0
-start time: 1926-08-17 00:00:00+0800
+start time: 2024-12-25 07:45:00+0800
+end time: 2024-12-25 12:15:00+0800
 subdir:
 - genshin
 - starrail
 - zzz
 title:
-  zh-cn: 试机
+  zh-cn: mihomo模拟赛
 version: 2
