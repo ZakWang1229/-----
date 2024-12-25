@@ -8,7 +8,7 @@
 
 不难发现，如果集合 $A$ 包含 $0$，则集合 $\operatorname{Ultra}(A)$ 也包含 $0$。
 
-我们选择由 $0$ 到 $2^{k-1}$ 之间的整数组成的集合 $A_0$，且 $0$ 在 $A_0$ 中。考虑以下序列：
+我们选择由 $0$ 到 $2^k-1$ 之间的整数组成的集合 $A_0$，且 $0$ 在 $A_0$ 中。考虑以下序列：
 
 - $m_0 = \operatorname{mex}(A_0),A_1 = \operatorname{Ultra}(A_0)$。
 - $m_1 = \operatorname{mex}(A_1),A_2 = \operatorname{Ultra}(A_1)$。
